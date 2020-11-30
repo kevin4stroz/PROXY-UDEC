@@ -1,0 +1,104 @@
+.nav-link {
+  color: beige;
+}
+.nav-link:hover {
+  color: rgb(250, 236, 157);
+}
+#cuerpo {
+  background-color: #f5b461;
+}
+
+#titulo {
+  color: #f5b461;
+}
+
+#regions_div {
+  /*margin: 5% 0% 5% 0%;*/
+  padding: 5% 5% 5% 5%;
+  width: auto;
+  height: auto;
+}
+
+.footer_2 {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #ec524b;
+  color: beige;
+  text-align: center;
+  font-size: smaller;
+}
+
+#menu {
+  background-color: #9ad3bc;
+  font-size: 25px;
+  margin-bottom: 1%;
+}
+
+#regions_div {
+  width: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#tablaajuste {
+  width: auto;
+  font-size: 70%;
+}
+#EncabezadoTabla {
+  background-color: #f5b461;
+  color: #d47b1c;
+  font-size: 110%;
+}
+#CuerpoTabla {
+  background-color: #efecc0;
+}
+.columna {
+  background-color: #efecc0;
+  margin: 3%;
+  height: 30%;
+}
+.grafico1 {
+  width: 50%;
+  height: auto;
+}
+@media (min-width: 576px) {
+  #regions_div {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  #regions_div {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media (min-width: 992px) {
+  #regions_div {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+@media (min-width: 1200px) {
+  #regions_div {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
